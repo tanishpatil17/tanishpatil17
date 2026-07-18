@@ -33,22 +33,19 @@ AI & Data Science | Machine Learning | Generative AI
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,mysql&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,powerbi" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-</p>
 
 ## 📫 Connect
 
-📧 tanish.patil@hotmail.com
+## 📫 Connect with Me
 
-🔗 https://www.linkedin.com/in/tanish-patil-ba227b1b2/
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tanish-patil-ba227b1b2/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:tanish.patil@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  
+</p>
