@@ -16,8 +16,6 @@ AI & Data Science | Machine Learning | Generative AI
 - 🎓 MSc Artificial Intelligence @ Victoria University of Wellington
 - 📊 Former Data Science Intern @ SKF India
 - 🤖 Interested in Machine Learning, Computer Vision & Generative AI
-- 📈 Building AI applications with Python, Streamlit and Power BI
-- 🌱 Currently learning Deep Learning, Reinforcement Learning & AI Planning
 
 ---
 
