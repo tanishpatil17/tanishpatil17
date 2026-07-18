@@ -52,17 +52,6 @@ AI & Data Science | Machine Learning | Generative AI
 **Tools**
 
 `Git` `GitHub` `Streamlit` `Jupyter`
-
----
-
-## ⭐ Featured Projects
-
-- 📈 Sales Opportunity Win Predictor
-- 💬 Sales Data Analysis Chatbot
-- 🤖 RAG Chatbot
-- 🍽️ Food Ordering Chatbot
-- 👷 PPE Detection using YOLO
-
 ---
 
 ## 📫 Connect
