@@ -5,8 +5,8 @@ AI & Data Science | Machine Learning | Computer Vision | Generative AI
 </h3>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/tanish-patil-ba227b1b2/">LinkedIn</a> •
+<a href="mailto:tanish.patil@hotmail.com">Email</a>
 </p>
 
 ---
