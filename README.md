@@ -67,6 +67,6 @@ AI & Data Science | Machine Learning | Computer Vision | Generative AI
 
 ## 📫 Connect
 
-📧 your.email@gmail.com
+📧 tanish.patil@hotmail.com
 
-🔗 linkedin.com/in/your-linkedin
+🔗 https://www.linkedin.com/in/tanish-patil-ba227b1b2/
