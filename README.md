@@ -34,7 +34,7 @@ AI & Data Science | Machine Learning | Generative AI
 ## 💻 Tech Stack
 
 
-## 📫 Connect
+
 
 ## 📫 Connect with Me
 
