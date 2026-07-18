@@ -13,7 +13,7 @@ AI & Data Science | Machine Learning | Generative AI
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc Artificial Intelligence @ Victoria University of Wellington
+- 🎓 Master of Artificial Intelligence @ Victoria University of Wellington
 - 📊 Former Data Science Intern @ SKF India
 - 🤖 Interested in Machine Learning, Computer Vision & Generative AI
 
@@ -22,10 +22,12 @@ AI & Data Science | Machine Learning | Generative AI
 ## 🚀 Current Focus
 
 - Machine Learning
-- Computer Vision (YOLO)
+- Computer Vision
+- Natural Language Processing
 - Generative AI & RAG
 - Data Analytics
 - AI-powered Dashboards
+- Business Intelligence
 
 ---
 
