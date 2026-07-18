@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Patil</h1>
 
 <h3 align="center">
-AI & Data Science | Machine Learning | Computer Vision | Generative AI
+AI & Data Science | Machine Learning | Generative AI
 </h3>
 
 <p align="center">
