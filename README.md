@@ -33,26 +33,6 @@ AI & Data Science | Machine Learning | Generative AI
 
 ## 💻 Tech Stack
 
-**Languages**
-
-`Python` `SQL`
-
-**Machine Learning**
-
-`Scikit-Learn` `PyTorch` `Pandas` `NumPy`
-
-**Generative AI**
-
-`LangChain` `ChromaDB` `Hugging Face` `Groq API`
-
-**Data Analytics**
-
-`Power BI` `Power Apps` `Power Automate`
-
-**Tools**
-
-`Git` `GitHub` `Streamlit` `Jupyter`
----
 
 ## 📫 Connect
 
