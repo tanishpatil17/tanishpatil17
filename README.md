@@ -33,6 +33,19 @@ AI & Data Science | Machine Learning | Generative AI
 
 ## 💻 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,mysql&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,powerbi" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+</p>
 
 ## 📫 Connect
 
