@@ -1,16 +1,72 @@
-## Hi👋, I am Tanish Patil
+<h1 align="center">Hi 👋, I'm Tanish Patil</h1>
 
-<!--
-**tanishpatil17/tanishpatil17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Data Science | Machine Learning | Computer Vision | Generative AI
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MSc Artificial Intelligence @ Victoria University of Wellington
+- 📊 Former Data Science Intern @ SKF India
+- 🤖 Interested in Machine Learning, Computer Vision & Generative AI
+- 📈 Building AI applications with Python, Streamlit and Power BI
+- 🌱 Currently learning Deep Learning, Reinforcement Learning & AI Planning
+
+---
+
+## 🚀 Current Focus
+
+- Machine Learning
+- Computer Vision (YOLO)
+- Generative AI & RAG
+- Data Analytics
+- AI-powered Dashboards
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+`Python` `SQL`
+
+**Machine Learning**
+
+`Scikit-Learn` `PyTorch` `Pandas` `NumPy`
+
+**Generative AI**
+
+`LangChain` `ChromaDB` `Hugging Face` `Groq API`
+
+**Data Analytics**
+
+`Power BI` `Power Apps` `Power Automate`
+
+**Tools**
+
+`Git` `GitHub` `Streamlit` `Jupyter`
+
+---
+
+## ⭐ Featured Projects
+
+- 📈 Sales Opportunity Win Predictor
+- 💬 Sales Data Analysis Chatbot
+- 🤖 RAG Chatbot
+- 🍽️ Food Ordering Chatbot
+- 👷 PPE Detection using YOLO
+
+---
+
+## 📫 Connect
+
+📧 your.email@gmail.com
+
+🔗 linkedin.com/in/your-linkedin
