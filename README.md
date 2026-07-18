@@ -32,8 +32,25 @@ AI & Data Science | Machine Learning | Generative AI
 ---
 
 ## 💻 Tech Stack
+**Languages**
+<br>
+🐍 Python &nbsp; | &nbsp; 🗄️ SQL
 
+**Data Science & Machine Learning**
+<br>
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • TensorFlow • Keras • PyTorch
 
+**AI & NLP**
+<br>
+OpenCV • SpaCy • Natural Language Toolkit • LangChain • Generative AI • RAG
+
+**Data Engineering & Databases**
+<br>
+MySQL • MongoDB • PyMongo • PySpark • Hadoop • Kafka
+
+**Analytics & Visualization**
+<br>
+Power BI • Looker Studio • Streamlit • Flask
 
 
 ## 📫 Connect with Me
