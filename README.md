@@ -37,8 +37,8 @@ AI & Data Science | Machine Learning | Generative AI
 - 🤖 **AI & Deep Learning:** TensorFlow, Keras, PyTorch, Reinforcement Learning
 - 🧠 **NLP & Generative AI:** SpaCy, NLTK, LangChain, RAG
 - 👁️ **Computer Vision:** OpenCV
-- 🗄️ **Databases:** MySQL, MongoDB, PyMongo
-- ⚙️ **Big Data & Engineering:** PySpark, Hadoop, Kafka
+- 🗄️ **Databases:** MySQL
+- ⚙️ **Big Data & Engineering:** PySpark
 - 📈 **Analytics & Visualization:** Power BI, Looker Studio, Streamlit
 - 🌐 **Development:** Flask
 
